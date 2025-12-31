@@ -1,1 +1,3 @@
 date,tool,use_case,purpose,input_data_type,de_identified(Y/N),what_i_verified,output_used_where,notes
+date,tool,use_case,purpose,input_data_type,de_identified(Y/N),what_i_verified,output_used_where,notes
+2025-01-02,ChatGPT,Prior Auth Draft,Draft initial language for auth request,De-identified clinical summary,Y,Verified dx/procedure details in source system,Internal prior auth workflow,Draft only; final reviewed by human
